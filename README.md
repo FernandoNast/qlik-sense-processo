@@ -1,7 +1,7 @@
-# Refera
+# Qlik Sense
 ## Desafio Data Analyst
 
-Desafio da segunda fase do processo da Refera, o qual consiste em responder determinadas perguntas e gerar insights
+Desafio da segunda fase de um processo seletivo, o qual consiste em responder determinadas perguntas e gerar insights
 
 Link para a plataforma Qlik utilizada nas Dashboards
 
