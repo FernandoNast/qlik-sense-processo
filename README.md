@@ -1,7 +1,15 @@
 # Qlik Sense
 ## Desafio Data Analyst
-
 Desafio da segunda fase de um processo seletivo, o qual consiste em responder determinadas perguntas e gerar insights
+
+## Objetivo
+O objetivo do desafio era a reponder alguns questionamentos através de uma ferramenta de visualização. Neste caso, foi utilizada o Qlik Sense.
+
+## Metodologia
+Os dados foram disponibilizados via link a uma nuvem, os quais tiveram ETL via Jupyter Noterbook, para tratamento, passando por processos como:
+* Analisando os tipos de dados;
+* Avaliando dados faltantes (Nan)
+* Salvando no formato .xlsx, para utilização no Qlik
 
 Link para a plataforma Qlik utilizada nas Dashboards
 
