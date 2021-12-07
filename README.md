@@ -6,7 +6,7 @@ Desafio da segunda fase de um processo seletivo, o qual consiste em responder de
 O objetivo do desafio era responder alguns questionamentos através de uma ferramenta de visualização. Para tal, foi utilizada o [Qlik Sense](https://www.qlik.com/pt-br/products/qlik-sense).
 
 ## Metodologia
-Os dados foram disponibilizados via link para uma nuvem, os quais tiveram ETL via Jupyter Noterbook, para tratamento, passando por processos como:
+Os dados foram disponibilizados via link para uma nuvem, os quais tiveram ETL (_Extract, Transform, Load_) via Jupyter Noterbook, para tratamento, passando por processos como:
 * Analisando os tipos de dados;
 * Avaliando dados faltantes (``NaN``)
 * Salvando no formato ``.xlsx``, para utilização no Qlik
